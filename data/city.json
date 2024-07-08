@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Bien Hoa",
+    "description": "Bien Hoa is an industrial city in Dong Nai Province, known for its rapid urbanization and historical significance.",
+    "spots": [
+      "Dong Nai Culture and Nature Reserve",
+      "Tran Bien Temple of Literature",
+      "Buu Long Park",
+      "Bien Hung Park",
+      "Chua Dai Giac Temple"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Can Tho",
+    "description": "Can Tho, the largest city in the Mekong Delta, is famous for its floating markets, rivers, and beautiful rural scenery.",
+    "spots": [
+      "Cai Rang Floating Market",
+      "Ninh Kieu Wharf",
+      "Bang Lang Stork Sanctuary",
+      "Can Tho Museum",
+      "Munirangsyaram Pagoda"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Da Nang",
+    "description": "Da Nang is a coastal city known for its sandy beaches, French colonial history, and proximity to historical sites.",
+    "spots": [
+      "My Khe Beach",
+      "Marble Mountains",
+      "Dragon Bridge",
+      "Son Tra Mountain (Monkey Mountain)",
+      "Ba Na Hills"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dalat",
+    "description": "Dalat, located in the Central Highlands, is known for its cool climate, pine forests, and colonial architecture.",
+    "spots": [
+      "Xuan Huong Lake",
+      "Dalat Flower Gardens",
+      "Crazy House",
+      "Bao Dai's Summer Palace",
+      "Truc Lam Monastery"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Ha Long",
+    "description": "Ha Long is renowned for its emerald waters and thousands of towering limestone islands topped with rainforests.",
+    "spots": [
+      "Ha Long Bay",
+      "Sung Sot Cave",
+      "Titov Island",
+      "Bai Tu Long Bay",
+      "Tuan Chau Island"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Hanoi",
+    "description": "Hanoi, the capital city, is known for its centuries-old architecture, rich culture, and bustling street life.",
+    "spots": [
+      "Hoan Kiem Lake",
+      "Old Quarter",
+      "Ho Chi Minh Mausoleum",
+      "Temple of Literature",
+      "One Pillar Pagoda"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ho Chi Minh City | Saigon",
+    "description": "Ho Chi Minh City, formerly known as Saigon, is Vietnam's largest city, known for its vibrant culture and historical landmarks.",
+    "spots": [
+      "Ben Thanh Market",
+      "War Remnants Museum",
+      "Notre-Dame Cathedral Basilica of Saigon",
+      "Cu Chi Tunnels",
+      "Reunification Palace"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Hoi An",
+    "description": "Hoi An is a well-preserved ancient town known for its mix of different cultures and beautiful lantern-lit streets.",
+    "spots": [
+      "Hoi An Ancient Town",
+      "Japanese Covered Bridge",
+      "An Bang Beach",
+      "Cua Dai Beach",
+      "Tra Que Vegetable Village"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Hue",
+    "description": "Hue is known for its historic monuments, including the Imperial City, a vast complex of palaces, temples, walls, and gates.",
+    "spots": [
+      "Imperial City",
+      "Thien Mu Pagoda",
+      "Tomb of Khai Dinh",
+      "Tomb of Minh Mang",
+      "Perfume River"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Nam Dinh",
+    "description": "Nam Dinh is a province in the Red River Delta region, known for its historical sites and cultural heritage.",
+    "spots": [
+      "Tran Temple",
+      "Pho Minh Pagoda",
+      "Co Le Pagoda",
+      "Vi Khe Bonsai Village",
+      "Xuan Thuy National Park"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Nha Trang",
+    "description": "Nha Trang is a coastal city known for its beaches, diving sites, and the Po Nagar Cham Towers.",
+    "spots": [
+      "Nha Trang Beach",
+      "Vinpearl Land",
+      "Po Nagar Cham Towers",
+      "Long Son Pagoda",
+      "Hon Mun Island"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Phu Quoc",
+    "description": "Phu Quoc is a Vietnamese island known for its white-sand beaches, resorts, and dense tropical jungle.",
+    "spots": [
+      "Sao Beach",
+      "Phu Quoc National Park",
+      "Vinpearl Safari",
+      "Dinh Cau Night Market",
+      "Suoi Tranh Waterfall"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Quy Nhon",
+    "description": "Quy Nhon is a coastal city known for its beaches, fishing villages, and Cham temples.",
+    "spots": [
+      "Ky Co Beach",
+      "Eo Gio",
+      "Thap Doi Cham Towers",
+      "Quang Trung Museum",
+      "Banh It Towers"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Sapa",
+    "description": "Sapa is a town in the Hoang Lien Son Mountains, known for its terraced rice fields and ethnic minority villages.",
+    "spots": [
+      "Fansipan Mountain",
+      "Cat Cat Village",
+      "Muong Hoa Valley",
+      "Sapa Market",
+      "Ham Rong Mountain"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Vung Tau",
+    "description": "Vung Tau is a coastal city known for its beaches, colonial-era architecture, and the large Christ the King statue.",
+    "spots": [
+      "Back Beach",
+      "Front Beach",
+      "Christ the King",
+      "Vung Tau Lighthouse",
+      "Ho May Park"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Tet (Lunar New Year)",
+    "text": "Tet, or Lunar New Year, is the most significant holiday in Vietnam. It marks the arrival of spring based on the lunar calendar, and is a time for families to gather, honor ancestors, and celebrate with traditional foods and customs. Streets are adorned with colorful decorations, and homes are filled with flowers, kumquat trees, and special Tet delicacies. Traditional activities include giving red envelopes (li xi) to children, performing lion dances, and visiting temples. Tet is a vibrant and joyous occasion that showcases the rich cultural heritage of Vietnam.",
+    "image": "../src/assets/images/culture/tet.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Festivals and Holidays",
+    "text": "Beyond Tet, Vietnam is home to a multitude of festivals and holidays that reflect its diverse cultural heritage. The Mid-Autumn Festival, known for its lantern processions and mooncakes, is a favorite among children. The Hue Festival celebrates the historical and cultural values of the ancient capital with performances and exhibitions. Other notable festivals include the Hung Kings' Temple Festival, honoring the legendary founders of Vietnam, and the Perfume Pagoda Festival, a religious pilgrimage. Each festival offers a unique glimpse into Vietnam's traditions and communal spirit.",
+    "image": "../src/assets/images/culture/festivals.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Traditional Clothing",
+    "text": "Traditional Vietnamese clothing, particularly the ao dai, is a symbol of national pride and cultural identity. The ao dai is a long, flowing dress worn over trousers, often made from silk and intricately embroidered. It is commonly worn during special occasions, festivals, and by students as school uniforms. The conical hat, or non la, is another iconic piece, used for protection from the sun and rain. These traditional garments reflect the elegance and grace of Vietnamese culture, blending practicality with aesthetic beauty.",
+    "image": "../src/assets/images/culture/clothing.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Language",
+    "text": "Vietnamese, the official language of Vietnam, is a tonal language with six distinct tones, making it unique and challenging for non-native speakers. It is written using the Latin alphabet with additional diacritics. Vietnamese language reflects the country's history, with influences from Chinese, French, and other languages. Learning a few basic phrases can greatly enhance a traveler's experience, as it shows respect and helps in connecting with locals. Regional dialects vary across the country, adding to the linguistic diversity.",
+    "image": "../src/assets/images/culture/language.webp"
+  },
+  {
+    "id": 5,
+    "title": "People",
+    "text": "Vietnam is a melting pot of ethnic diversity, home to 54 distinct ethnic groups. The Kinh people make up the majority, but the cultural tapestry is enriched by minority groups such as the Tay, Hmong, and Khmer. Each group has its own unique traditions, languages, and customs. Vietnamese society is known for its hospitality, with community and family at the heart of daily life. Visitors are often struck by the warmth and friendliness of the Vietnamese people, who are always willing to share their culture and stories.",
+    "image": "../src/assets/images/culture/people.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Religion and Spirituality",
+    "text": "Religion and spirituality are deeply woven into the fabric of Vietnamese culture. Buddhism is the most practiced religion, with influences from Taoism and Confucianism creating a unique blend known as Tam Giao. Ancestor worship is also a significant aspect, with families honoring their ancestors through rituals and offerings. Many Vietnamese also follow folk beliefs and practices, which include a variety of deities and spirits. Temples and pagodas are common throughout the country, serving as places of worship and community gathering.",
+    "image": "../src/assets/images/culture/religion.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Arts and Crafts",
+    "text": "Vietnam boasts a rich tradition of arts and crafts, reflecting its cultural heritage and creativity. Water puppetry, a unique performance art, depicts scenes of rural life and historical legends. Lacquerware, silk painting, and pottery are renowned for their intricate designs and craftsmanship. Handicrafts such as bamboo products, embroidery, and wood carving showcase the skills passed down through generations. These artistic expressions not only serve as beautiful souvenirs but also offer insights into the everyday life and traditions of Vietnamese people.",
+    "image": "../src/assets/images/culture/arts.jpeg"
+  }
+]

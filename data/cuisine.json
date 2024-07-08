@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "name": "Pho",
+    "description": "A traditional Vietnamese soup consisting of broth, rice noodles, herbs, and meat, usually beef or chicken.",
+    "ingredients": [
+      "Beef or chicken broth",
+      "Rice noodles",
+      "Bean sprouts",
+      "Thai basil",
+      "Lime wedges",
+      "Sliced chili peppers",
+      "Sliced onions",
+      "Sliced scallions",
+      "Cilantro"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Banh Mi",
+    "description": "A Vietnamese sandwich made with a crispy baguette, filled with various ingredients like meat, pickled vegetables, cilantro, and chili.",
+    "ingredients": [
+      "Baguette",
+      "Pate or mayonnaise",
+      "Sliced pork or chicken",
+      "Pickled carrots and daikon",
+      "Cucumber slices",
+      "Cilantro",
+      "Chili peppers"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Spring Rolls",
+    "description": "Fresh spring rolls made with rice paper, shrimp, pork, fresh herbs, and vermicelli, served with a dipping sauce.",
+    "ingredients": [
+      "Rice paper wrappers",
+      "Shrimp",
+      "Pork",
+      "Rice vermicelli",
+      "Lettuce leaves",
+      "Mint leaves",
+      "Cilantro",
+      "Bean sprouts",
+      "Dipping sauce"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bun Cha",
+    "description": "A dish of grilled pork served over a plate of white rice noodles and herbs with a side of dipping sauce.",
+    "ingredients": [
+      "Grilled pork patties",
+      "White rice noodles",
+      "Lettuce leaves",
+      "Herbs (often including perilla and mint)",
+      "Dipping sauce (typically fish sauce, vinegar, sugar, and lime)"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Banh Xeo",
+    "description": "Vietnamese savory pancakes made with rice flour, water, and turmeric powder, stuffed with pork, shrimp, and bean sprouts.",
+    "ingredients": [
+      "Rice flour batter (with turmeric powder)",
+      "Pork belly or shrimp",
+      "Bean sprouts",
+      "Mung beans",
+      "Lettuce leaves",
+      "Herbs (mint and cilantro)",
+      "Dipping sauce"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Cao Lau",
+    "description": "A regional Vietnamese noodle dish from the town of Hội An, consisting of noodles, pork, greens, and crispy rice paper.",
+    "ingredients": [
+      "Thick rice noodles",
+      "Pork (often marinated and roasted)",
+      "Greens (often lettuce and herbs)",
+      "Crunchy rice crackers",
+      "Broth or sauce (sometimes soy-based)"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Com Tam",
+    "description": "Broken rice typically served with grilled pork, egg, and a variety of other toppings.",
+    "ingredients": [
+      "Broken rice",
+      "Grilled pork chop",
+      "Fried egg",
+      "Pickled vegetables",
+      "Sliced cucumber",
+      "Fish sauce dressing"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Hue Beef Noodle Soup",
+    "description": "A spicy beef noodle soup from the city of Huế, featuring rice vermicelli and beef, and flavored with lemongrass.",
+    "ingredients": [
+      "Beef broth with lemongrass",
+      "Rice vermicelli",
+      "Beef (often thinly sliced)",
+      "Pork sausage slices",
+      "Lime wedges",
+      "Fresh herbs",
+      "Sliced chili peppers",
+      "Shrimp paste"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Che",
+    "description": "A sweet dessert soup or pudding made with various ingredients like beans, rice, fruits, and coconut milk.",
+    "ingredients": [
+      "Coconut milk",
+      "Sweetened beans (mung beans or red beans)",
+      "Tapioca pearls",
+      "Fresh fruits (often mango or jackfruit)",
+      "Jelly cubes",
+      "Sugar syrup"
+    ]
+  }
+]
