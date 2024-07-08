@@ -13,7 +13,8 @@
       "Sliced onions",
       "Sliced scallions",
       "Cilantro"
-    ]
+    ],
+    "image": "../src/assets/images/dishes/pho.jpeg"
   },
   {
     "id": 2,
@@ -27,7 +28,8 @@
       "Cucumber slices",
       "Cilantro",
       "Chili peppers"
-    ]
+    ],
+    "image": "../src/assets/images/dishes/banhmi.jpeg"
   },
   {
     "id": 3,
@@ -43,7 +45,8 @@
       "Cilantro",
       "Bean sprouts",
       "Dipping sauce"
-    ]
+    ],
+    "image": "../src/assets/images/dishes/spring.jpeg"
   },
   {
     "id": 4,
@@ -55,7 +58,8 @@
       "Lettuce leaves",
       "Herbs (often including perilla and mint)",
       "Dipping sauce (typically fish sauce, vinegar, sugar, and lime)"
-    ]
+    ],
+    "image": "../src/assets/images/dishes/buncha.jpeg"
   },
   {
     "id": 5,
@@ -69,7 +73,8 @@
       "Lettuce leaves",
       "Herbs (mint and cilantro)",
       "Dipping sauce"
-    ]
+    ],
+    "image": "../src/assets/images/dishes/banhxeo.jpeg"
   },
   {
     "id": 6,
@@ -81,7 +86,8 @@
       "Greens (often lettuce and herbs)",
       "Crunchy rice crackers",
       "Broth or sauce (sometimes soy-based)"
-    ]
+    ],
+    "image": "../src/assets/images/dishes/caolau.jpeg"
   },
   {
     "id": 7,
@@ -94,7 +100,8 @@
       "Pickled vegetables",
       "Sliced cucumber",
       "Fish sauce dressing"
-    ]
+    ],
+    "image": "../src/assets/images/dishes/comtam.jpeg"
   },
   {
     "id": 8,
@@ -109,7 +116,8 @@
       "Fresh herbs",
       "Sliced chili peppers",
       "Shrimp paste"
-    ]
+    ],
+    "image": "../src/assets/images/dishes/HueBeefNoodleSoup.jpeg"
   },
   {
     "id": 9,
@@ -122,6 +130,7 @@
       "Fresh fruits (often mango or jackfruit)",
       "Jelly cubes",
       "Sugar syrup"
-    ]
+    ],
+    "image": "../src/assets/images/dishes/che.jpeg"
   }
 ]
